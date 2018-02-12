@@ -1,0 +1,20 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Include="CardGame.fs" />
+    <Compile Include="Composition.fs" />
+    <Compile Include="CSharpToFSharp.fs" />
+    <Compile Include="DependencyRejection.fs" />
+    <Compile Include="FunctionalDifferences.fs" />
+    <Compile Include="FirstClassFunctions.fs" />
+    <Compile Include="Recursion.fs" />
+    <Compile Include="PaymentTypes.fs" />
+    <Compile Include="TailRecursion.fs" />
+    <Compile Include="UnitOfMeasure.fs" />
+  </ItemGroup>
+
+</Project>
